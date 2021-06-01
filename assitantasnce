@@ -1,0 +1,6 @@
+from pyzeroed.functions.asst_fns import *
+from pyzeroed.functions.botchat_db import *
+from .. import *
+
+OWNER_NAME = zerord_bot.me.first_name
+OWNER_ID = zeroed_bot.me.id
